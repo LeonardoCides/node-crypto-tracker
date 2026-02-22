@@ -16,7 +16,7 @@ A lightweight, real-time cryptocurrency price monitor for your terminal. This pr
 ## 📂 Project Structure
 ```text
 .
-├── api.js           # Handles all communication with Binance API
+├── crypto_sc.js           # Handles all communication with Binance API
 ├── atualizacao.js   # Pure function responsible for terminal UI/UX
-└── server.js        # Main entry point (the orchestrator)
+└── init.js        # Main entry point (the orchestrator)
 ```
